@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/study.automapper/bin/Debug/netcoreapp3.1
+/study.automapper/.vs/study.automapper
+/study.automapper/obj
